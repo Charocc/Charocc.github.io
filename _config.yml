@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 deploy:
 type: git
-repo: git@github.com:yourname/yourname.github.io.git
+repo: git@github.com:Charocc/Charocc.github.io.git
 branch: master
